@@ -1,6 +1,6 @@
 from django.urls import path, include
 
 urlpatterns = [
-    path('', include('sia_if_ms.urls')),
+    path('', include('uncademy_if_ms.urls')),
 ]
 
